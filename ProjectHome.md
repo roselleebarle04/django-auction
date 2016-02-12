@@ -1,0 +1,1 @@
+The goal of the project is to make a auction system in python + django. This includes product/service management, payment system, live auction, support chat room etc.
